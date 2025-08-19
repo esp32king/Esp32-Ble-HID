@@ -46,7 +46,7 @@ Use these commands via the Serial Monitor or GUI Monitor App:
 
 ---
 
-🔥 Flashing the .bin File
+# 🔥 Flashing the .bin File
 
 No need for Arduino IDE! You can flash directly from your browser:
 
@@ -76,7 +76,7 @@ No need for Arduino IDE! You can flash directly from your browser:
 
 ---
 
-🛠 Usage
+# 🛠 Usage
 
 1. Connect ESP32 via USB and open Serial Monitor (115200 baud). You Can Use Android App <a href="https://play.google.com/store/apps/details?id=com.bluino.esp32loader">Esp32 Loader </a> or any serial monitor App.
 
@@ -91,7 +91,7 @@ No need for Arduino IDE! You can flash directly from your browser:
 
 ---
 
-🤝 Contribution
+# 🤝 Contribution
 
 Want to improve this project? PRs are welcome!
 
@@ -105,14 +105,14 @@ Share new use-cases 💡
 
 ---
 
-📜 License
+# 📜 License
 
 This project is open-source under the MIT License.
 
 
 ---
 
-👨‍💻 Author
+# 👨‍💻 Author
 
 Created By Krishna Rajput UP61
 
