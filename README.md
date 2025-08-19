@@ -1,4 +1,4 @@
-🚀 ESP32-BLE-HID
+11🚀 ESP32-BLE-HID
 
 Turn your ESP32 into a Bluetooth Low Energy Human Interface Device (BLE HID).
 Flash the provided .bin file directly using esptool.spacehuhn.com — no need to compile!
@@ -65,11 +65,11 @@ No need for Arduino IDE! You can flash directly from your browser:
 6. Wait until flashing completes ✅.
 
 
- bootloader.bin → 0x1000
+7. <a href="https://github.com/esp32king/Esp32-Ble-HID/releases/download/Esp32-BLE-HID/bootloader.bin">bootloader.bin</a> → 0x1000
 
- partitions.bin → 0x8000
+ 8. <a href="https://github.com/esp32king/Esp32-Ble-HID/releases/download/Esp32-BLE-HID/partitions.bin">partitions.bin</a> → 0x8000
 
- ESP32-BLE-HID.bin → 0x10000
+ 9. <a href="https://github.com/esp32king/Esp32-Ble-HID/releases/download/Esp32-BLE-HID/ESPESP32-BLE-HID">ESPESP32-BLE-HID.bin</a> → 0x10000
 
 ---
 
