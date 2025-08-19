@@ -53,7 +53,7 @@ No need for Arduino IDE! You can flash directly from your browser:
 1. Download the .bin file from the Releases section.
 
 
-2. Open 👉 esptool.spacehuhn.com.
+2. Open 👉 <a href="https://esptool.spacehuhn.com">esptool.spacehuhn.com</a>.
 
 
 3. Connect your ESP32 via USB.
