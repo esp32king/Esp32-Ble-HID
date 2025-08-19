@@ -65,7 +65,11 @@ No need for Arduino IDE! You can flash directly from your browser:
 6. Wait until flashing completes ✅.
 
 
+ bootloader.bin → 0x1000
 
+ partitions.bin → 0x8000
+
+ ESP32-BLE-HID.bin → 0x10000
 
 ---
 
