@@ -81,7 +81,7 @@ No need for Arduino IDE! You can flash directly from your browser:
 1. Connect ESP32 via USB and open Serial Monitor (115200 baud). You Can Use Android App <a href="https://play.google.com/store/apps/details?id=com.bluino.esp32loader">Esp32 Loader </a> or any serial monitor App.
 
 
-2. Type any command (e.g., notepad, google esp32) and hit enter.
+2. Type any command `help` and hit Enter to see All Commands.
 
 
 3. The ESP32 will execute the corresponding HID action on the connected PC.
