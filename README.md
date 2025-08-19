@@ -3,6 +3,10 @@
 Turn your ESP32 into a Bluetooth Low Energy Human Interface Device (BLE HID).
 Flash the provided .bin file from <a href="https://github.com/esp32king/Esp32-Ble-HID/releases/tag/Esp32-BLE-HID">Releases"</a> directly And Flash it here 👉 <a href="https://esptool.spacehuhn.com">esptool.spacehuhn.com</a> — no need to compile!
 
+---
+
+# 📱 Controll by Android
+<img src="https://raw.githubusercontent.com/esp32king/Esp32-Ble-HID/refs/heads/main/Files/Ss.jpg"></img>
 
 ---
 
