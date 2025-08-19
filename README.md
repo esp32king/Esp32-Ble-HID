@@ -1,4 +1,4 @@
-11🚀 ESP32-BLE-HID
+# 🚀 ESP32-BLE-HID
 
 Turn your ESP32 into a Bluetooth Low Energy Human Interface Device (BLE HID).
 Flash the provided .bin file directly using esptool.spacehuhn.com — no need to compile!
@@ -6,7 +6,7 @@ Flash the provided .bin file directly using esptool.spacehuhn.com — no need to
 
 ---
 
-✨ Features
+# ✨ Features
 
 This project allows your ESP32 to act as a remote HID controller for Windows, macOS, and Android.
 You can send various commands via Serial Monitor or the GUI Monitor App.
